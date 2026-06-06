@@ -142,11 +142,6 @@ class AakritiGupta:
 
 > ☕ caffeinated · 📉 stonks-pilled · 🏎️ screaming at my driver · 🐛 it's not a bug it's a feature
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arcane-alchemist&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
 
 <p align="center">
   <i>"The best way to predict the future is to build it — on-chain."</i> ✨
