@@ -1,15 +1,11 @@
 ## Hi there 👋
 <!-- Typing SVG Header -->
+<!-- Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aakriti+%F0%9F%91%BE;arcane-alchemist+on+GitHub;Code+%7C+Crypto+%7C+F1+%7C+Finance" alt="Typing SVG" />
 </p>
 
 ---
-
-<!-- Pixel Girl GIF + About Me side by side -->
-<table align="center">
-<tr>
-<td valign="top" width="55%">
 
 ## 🧙‍♀️ About Me
 
@@ -21,29 +17,15 @@ class AakritiGupta:
     fun_fact   = "I debug with vibes and caffeine ☕"
 ```
 
-- 🔭 Working on **DeFi dApps** & **AI/ML projects**
-- 🌱 Exploring **Solidity**, **Zero-Knowledge Proofs** & **Blockchain**
-- 📊 Fascinated by **financial markets** and **quant strategies**
-- 🏁 Weekend ritual: watching **F1 races** while coding
-- 💡 Turning coffee into smart contracts since forever
+- 🔭 Building **DeFi dApps** & **AI/ML** tools
+- 🌱 Deep in **Solidity** & **ZK Proofs**
+- 📊 Obsessed with **markets** & quant thinking
+- 🏁 F1 on weekends, commits on weekdays
+- 💡 Coffee → smart contracts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aakritigupta06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritigupta06/)
-[![GitHub](https://img.shields.io/badge/GitHub-arcane--alchemist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcane-alchemist)
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<!-- Pixel art girl coding + F1 on second monitor -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3d3RuNXFzMzVoMGp5dHFjd2p5NHRqeGN6ZjBtZHdxbWd6bGJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Girl coding gif"/>
-
-<br/>
-
-> *Code on one screen, F1 on the other —*  
-> *that's the dream setup* 🏎️💻
-
-</td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/aakritigupta06/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" style="filter: invert(36%) sepia(93%) saturate(1352%) hue-rotate(196deg) brightness(96%) contrast(86%);" alt="LinkedIn"/>
+</a>
 
 ---
 
@@ -96,7 +78,7 @@ class AakritiGupta:
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/arcane-alchemist/9-hacks">9-Hacks</a></h3>
       <p>
-        A JavaScript-powered collection of web hacks and mini-projects. Showcasing creative front-end experiments, small utilities, and browser tricks — the sandbox for ideas that turn into something wild.
+        A JavaScript-powered collection of web hacks and mini-projects. Creative front-end experiments and browser tricks — the sandbox where wild ideas live.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -104,16 +86,7 @@ class AakritiGupta:
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/arcane-alchemist/dense-zkvm">dense-zkvm</a></h3>
-      <p>
-        A hyper-mobile SDK for building social applications using Zero-Knowledge Proofs. Forked from hushnetlabs — exploring the frontier of privacy-preserving social apps and ZK cryptography on mobile.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ZK-Proofs-8B5CF6?style=flat-square"/>
-      </p>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -122,29 +95,52 @@ class AakritiGupta:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arcane-alchemist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane-alchemist&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcane-alchemist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane-alchemist&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="60%" alt="GitHub Streak"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake.svg" />
+  </picture>
+</p>
 
-## 🏎️ Current Vibe
+> ⚡ **To activate the snake:** Go to your repo `arcane-alchemist/arcane-alchemist` → **Actions** tab → Create a new workflow file `.github/workflows/snake.yml` with the code below:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: arcane-alchemist
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
-```
-while (alive) {
-    eat();
-    code();
-    watchF1();
-    checkStockMarket();
-    sleep(); // optional
-}
-```
+---
+
+## ✨ Current Vibe
+
+> ☕ caffeinated · 📉 stonks-pilled · 🏎️ screaming at my driver · 🐛 it's not a bug it's a feature
 
 ---
 
@@ -155,18 +151,3 @@ while (alive) {
 <p align="center">
   <i>"The best way to predict the future is to build it — on-chain."</i> ✨
 </p>
-
-<!--
-**arcane-alchemist/arcane-alchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
