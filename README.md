@@ -1,8 +1,7 @@
 ## Hi there 👋
 <!-- Typing SVG Header -->
-<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aakriti+%F0%9F%91%BE;arcane-alchemist+on+GitHub;Code👩‍💻+%7C+Crypto💹+%7C+F1+%7C+Finance💸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aakriti+%F0%9F%91%BE;arcane-alchemist+on+GitHub;Code+%7C+Crypto+%7C+F1+%7C+Finance" alt="Typing SVG" />
 </p>
 
 ---
