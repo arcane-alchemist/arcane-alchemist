@@ -30,7 +30,6 @@ class AakritiGupta:
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -40,7 +39,6 @@ class AakritiGupta:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,solidity,html,css,git&theme=dark" />
 </p>
@@ -97,44 +95,6 @@ class AakritiGupta:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane-alchemist&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="60%" alt="GitHub Streak"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake.svg" />
-  </picture>
-</p>
-
-> ⚡ **To activate the snake:** Go to your repo `arcane-alchemist/arcane-alchemist` → **Actions** tab → Create a new workflow file `.github/workflows/snake.yml` with the code below:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: arcane-alchemist
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
