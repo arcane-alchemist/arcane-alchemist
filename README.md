@@ -132,43 +132,7 @@ class AakritiGupta:
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arcane-alchemist/arcane-alchemist/output/github-snake.svg" />
-  </picture>
-</p>
-
-> ⚡ **To activate the snake:** Go to your repo `arcane-alchemist/arcane-alchemist` → **Actions** tab → Create a new workflow file `.github/workflows/snake.yml` with the code below:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: arcane-alchemist
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
 
 ## 🏎️ Current Vibe
 
