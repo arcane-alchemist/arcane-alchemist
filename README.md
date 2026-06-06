@@ -23,10 +23,6 @@ class AakritiGupta:
 - 🏁 F1 on weekends, commits on weekdays
 - 💡 Coffee → smart contracts
 
-<a href="https://www.linkedin.com/in/aakritigupta06/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" style="filter: invert(36%) sepia(93%) saturate(1352%) hue-rotate(196deg) brightness(96%) contrast(86%);" alt="LinkedIn"/>
-</a>
-
 ---
 
 ## 🛠️ Tech Stack
