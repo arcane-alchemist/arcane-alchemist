@@ -85,14 +85,6 @@ class AakritiGupta:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane-alchemist&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="60%" alt="GitHub Streak"/>
-</p>
-
----
-
 ## ✨ Current Vibe
 
 > ☕ caffeinated · 📉 stonks-pilled · 🏎️ screaming at my driver · 🐛 it's not a bug it's a feature
